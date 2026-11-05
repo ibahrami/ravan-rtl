@@ -1,0 +1,14 @@
+{
+  "name": "ravan-rtl",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scoped RTL and Vazirmatn typography for Claude Desktop on Linux.",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": { "test": "node --test" },
+  "dependencies": {
+    "@electron/asar": "4.2.0",
+    "inquirer": "8.2.7"
+  }
+}
